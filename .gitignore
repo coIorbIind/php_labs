@@ -2,3 +2,4 @@ venv/
 *__pycache__*
 .idea
 test_main.http
+*.pytest_cache*
