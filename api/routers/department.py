@@ -6,5 +6,5 @@ router = InferringRouter()
 
 
 @cbv(router)
-class EmployeeRouter:
+class DepartmentRouter:
     pass
